@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="Boy">Boy</string>
+    <string name="def_boy">0.0</string>
+    <string name="kilo_tw">Kilo</string>
+    <string name="kilo_bilgisi">50 kg</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="Bay">Bay</string>
+    <string name="Bayan">Bayan</string>
+    <string name="ideal_kilo_tw">İdeal Kilo</string>
+    <string name="durum_tw">Durum</string>
+    <string name="zayif">Zayıfsınız.</string>
+    <string name="ideal">Normal kilodasınız.</string>
+    <string name="idealden_fazla">Normal kilodan fazla!</string>
+    <string name="fazla_kilolu">Kilonuz oldukça fazla!</string>
+    <string name="obez">Malesef obezsiniz.</string>
+    <string name="doktora">Doktor tedavisi gerekiyor.</string>
+</resources>
